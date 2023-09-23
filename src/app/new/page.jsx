@@ -62,7 +62,7 @@ function NewPage({params}) {
                 />
                 
                 <label htmlFor="description" className="font-bold text-sm">
-                    Descripción de la tarea
+                    Descripción de mi tarea
                 </label>
                 <textarea rows="3"
                 id="description"
